@@ -1,3 +1,11 @@
+body{
+    background: lightblue;
+    color: blue;
+    font-family: 'Grandstander', cursive;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
 /*Navigation bar*/
 ul {
   background-color: black;
