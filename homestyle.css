@@ -35,6 +35,11 @@ body{
     border-radius: 40px;
 }
 
+.contacts{
+    text-align: center;
+    margin-top: 10px;
+}
+
 li{
     list-style-type:none;
 }
